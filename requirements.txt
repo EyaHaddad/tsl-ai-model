@@ -6,3 +6,4 @@ kagglehub
 matplotlib
 jupyter
 ipykernel
+scikit-learn
