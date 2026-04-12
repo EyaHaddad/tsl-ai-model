@@ -7,7 +7,4 @@ matplotlib
 jupyter
 ipykernel
 scikit-learn
-onnx2tf
-onnxscript
-onnx
 tensorflow
